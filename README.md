@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atharva1912004, a passionate individual exploring the vast realms of technology and beyond
+- 👋 Hi, I’m @Atharva1912004, a passionate individual exploring the vast realms of technology and beyond.
 - 👀 I’m interested in web application development.
 - 🌱 I’m currently learning the Spring Boot framework with microservices.
 - 💞️ I’m looking to collaborate on web development projects, especially those involving Spring Boot and microservices.
