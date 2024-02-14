@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Atharva1912004, a passionate individual exploring the vast realms of technology and beyond.<br>👀 I’m interested in web application development.<br>🌱 I’m currently learning the Spring Boot framework with microservices.<br>💞️ I’m looking to collaborate on web development projects, especially those involving Spring Boot and microservices.<br>📫 How to reach me - atharvagawande19@gmail.com<br>😄 Pronouns: he/his<br>⚡ Fun fact: Beyond coding and tech, my curiosity adds an unique touch to the journey of constant learning and growth. 😉
+👋 Hi, I’m Atharv Gawande, a passionate individual exploring the vast realms of technology and beyond.<br>👀 I’m interested in web application development.<br>🌱 I’m currently learning the Spring Boot framework with microservices.<br>💞️ I’m looking to collaborate on web development projects, especially those involving Spring Boot and microservices.<br>📫 How to reach me - atharvagawande19@gmail.com<br>😄 Pronouns: he/his<br>⚡ Fun fact: Beyond coding and tech, my curiosity adds an unique touch to the journey of constant learning and growth. 😉
 
 
 ## 🌐 Socials:
